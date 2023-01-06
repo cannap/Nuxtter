@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "node_modules/.pnpm/mkdir@0.0.2/node_modules/mkdir/**/node_modules": true,
+    "node_modules/.pnpm/unstorage@1.0.1/node_modules/mkdir/**/node_modules": true,
+    "node_modules/mkdir/**/node_modules": true,
+    "**/node_modules": true,
+    "**/*.log*": true,
+    "**/.nuxt": true,
+    "**/.nitro": true,
+    "**/.cache": true,
+    "**/.output": true,
+    "**/.env": true,
+    "**/dist": true
+  }
+}
